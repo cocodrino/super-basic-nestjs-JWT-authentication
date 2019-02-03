@@ -1,0 +1,111 @@
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTQ5MTU3NjYwLCJleHAiOjE1NDkxNjEyNjB9.DgEtQsEzrsplfC1mqtZktVl-EsVkXItpgeaHRYLR_CI
+
+<> 2019-02-02T093554.200.html
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tomas@hotmail.com","password": "123452"}
+
+<> 2019-02-02T093422.200.json
+
+###
+
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTQ5MTU3MzUyLCJleHAiOjE1NDkxNjA5NTJ9.MDJ0d67DSPN3GV_uv7brwAwOe5H8aTHFUiScfIcUaaM
+
+<> 2019-02-02T092957.200.html
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tomas@hotmail.com","password": "123452"}
+
+<> 2019-02-02T092917.200.json
+
+###
+
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvbWFzQGhvdG1haWwuY29tIiwiaWF0IjoxNTQ5MTU3MTA1LCJleHAiOjE1NDkxNjA3MDV9.rfHPkXuSJT6Vidj3LUtMtEZETNqq7noKtneKFZaTglA
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tomas@hotmail.com","password": "123452"}
+
+<> 2019-02-02T092507.200.json
+
+###
+
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvbUBob3RtYWlsLmNvbSIsImlhdCI6MTU0OTE1NjQyMiwiZXhwIjoxNTQ5MTYwMDIyfQ.naU7L6f9idcrHFkVuaFAn7k2jsNpv97elGCLJuCMfUs
+
+###
+
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvbUBob3RtYWlsLmNvbSIsImlhdCI6MTU0OTE1NjQyMiwiZXhwIjoxNTQ5MTYwMDIyfQ.naU7L6f9idcrHFkVuaFAn7k2jsNpv97elGCLJuCMfUs
+
+###
+
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvbUBob3RtYWlsLmNvbSIsImlhdCI6MTU0OTE1NjQyMiwiZXhwIjoxNTQ5MTYwMDIyfQ.naU7L6f9idcrHFkVuaFAn7k2jsNpv97elGCLJuCMfUs
+
+<> 2019-02-02T091718.401.json
+
+###
+
+POST http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvbUBob3RtYWlsLmNvbSIsImlhdCI6MTU0OTE1NjQyMiwiZXhwIjoxNTQ5MTYwMDIyfQ.naU7L6f9idcrHFkVuaFAn7k2jsNpv97elGCLJuCMfUs
+
+<> 2019-02-02T091709.404.json
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tom@hotmail.com","password": "12345"}
+
+<> 2019-02-02T091348.200.json
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tom@hotmail.com","password": "12345"}
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tom@hotmail.com","password": "12345"}
+
+<> 2019-02-02T091105.400.html
+
+###
+
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tom@hotmail.com","password": "12345"}
+
+<> 2019-02-02T090858.500.json
+
+###
+

@@ -1,0 +1,12 @@
+POST http://localhost:3000/users/register
+Content-Type: application/json
+
+{"email": "tomas@hotmail.com","password": "123452"}
+
+###
+GET http://localhost:3000/users/protected
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTQ5MTU3NjYwLCJleHAiOjE1NDkxNjEyNjB9.DgEtQsEzrsplfC1mqtZktVl-EsVkXItpgeaHRYLR_CI
+
+###
+
